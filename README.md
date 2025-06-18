@@ -1,4 +1,4 @@
-![alt text](https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif)
+![alt text](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 <!-- Greeting -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Rafi+Eka+Pramatya!;" />
