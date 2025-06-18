@@ -32,15 +32,21 @@
 
 <h3 align="left">💫 About Me</h3>
 
+<br/>
 
-<h4><div align="left"> 
-  🌱 I am currently learning and developing my programming skills.</br>
- 🔭 I worked on .Microsoft and experience in Model-View-Controller.</br>
- 💬 Skills I acquire in programming languages such as Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> 
- </div>
- <br/>
+
+<div align="left">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Skills I acquire in programming languages such as **Python**
+
+⚡ Interest in **Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development**
+
+ </div> 
+ 
  
  
  <!-- lang-->
