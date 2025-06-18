@@ -36,6 +36,8 @@
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> <div align="left">
 
+ <br/><br/>
+
  <h3 align="center"> 📚 Languages & tools I Have placed My Hands On </h3> 
  
  </br>
@@ -59,8 +61,6 @@
 **Shandregaz/Shandregaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
