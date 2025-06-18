@@ -29,15 +29,16 @@
 
 <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
 <h3 align="left">💫 About Me</h3>
-<h4 align="left"> 
+
+
+<h4> 
   🌱 I am currently learning and developing my programming skills.</br>
  🔭 I worked on .Microsoft and experience in Model-View-Controller.</br>
  💬 Skills I acquire in programming languages such as Python.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> 
-
  <br/><br/>
- 
+ <hr/>
  
  <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
