@@ -1,10 +1,9 @@
-![alt text](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+![alt text](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif)
 <!-- Greeting -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Rafi+Eka+Pramatya!;" />
 </h1>
-
-
+ 
 <h4 align="left">I am currently a freshman in Bachelor of Computer Science, actively improving my programming skills, and exploring various fields of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly interested in Artificial Intelligence and Machine Learning, focusing on these areas to improve efficiency in the development of advanced technologies.</h4>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
 <div align="center"> 
