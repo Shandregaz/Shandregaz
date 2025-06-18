@@ -33,13 +33,14 @@
 <h3 align="left">💫 About Me</h3>
 
 
-<h4> 
+<h4><div align="left"> 
   🌱 I am currently learning and developing my programming skills.</br>
  🔭 I worked on .Microsoft and experience in Model-View-Controller.</br>
  💬 Skills I acquire in programming languages such as Python.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> 
- <br/><br/>
+ </div>
+ <br/>
  
  
  <!-- lang-->
