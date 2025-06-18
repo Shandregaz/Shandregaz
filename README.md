@@ -37,10 +37,8 @@
  ✨ I only like perfection.</h4> <div align="left">
 
  <br/><br/>
-
- <h3 align="center"> 📚 Languages & tools I Have placed My Hands On </h3> 
  
- </br>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
  <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
