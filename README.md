@@ -27,12 +27,15 @@
   
 </div>
 
-<h3 align="left">💫 About Me</h3>
+<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
+
 
 <br/>
 
 
 <div align="left">
+
+<h3>💫 About Me</h3>
  
  🔭 I’m currently working on **a marketplace**
  
@@ -43,10 +46,6 @@
 ⚡ Interest in **Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development**
 
  </div> 
-
- <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
-
-
  
  <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
 
