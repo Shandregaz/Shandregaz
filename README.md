@@ -31,13 +31,13 @@
 <h3 align="left">💫 About Me</h3>
 <h4> 
   🌱 I am currently learning and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
+ 🔭 I worked on .Microsoft and experience in Model-View-Controller.</br>
+ 💬 Skills I acquire in programming languages such as Python.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> <div align="left">
 
- <h3 align="center"> 📚 Languages & tools I Have placed My Hands On ⚒️ </h3> 
-
+ <h3 align="center"> 📚 Languages & tools I Have placed My Hands On </h3> 
+ 
  </br>
 
  <div align="center">
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 
 
 
