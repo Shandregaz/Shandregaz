@@ -27,9 +27,6 @@
   
 </div>
 
-<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
-
-
 <h3 align="left">💫 About Me</h3>
 
 <br/>
@@ -46,11 +43,12 @@
 ⚡ Interest in **Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development**
 
  </div> 
+
+ <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
+
+
  
- 
- 
- <!-- lang-->
-<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+ <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
 
 <br/>
 
@@ -60,6 +58,7 @@
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 <br/>
 
