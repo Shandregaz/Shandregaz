@@ -1,4 +1,4 @@
-![alt text](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![alt text](https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif)
 <!-- Greeting -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Rafi+Eka+Pramatya!;" />
@@ -31,7 +31,7 @@
 <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
 <h3 align="left">💫 About Me</h3>
 <h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
+  🌱 I am currently learning and developing my programming skills.</br>
  🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
