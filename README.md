@@ -47,11 +47,11 @@
 
  </div> 
  
- <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
 
 <br/>
 
 <div align="center">
+<h3>📚 Languages & tools I Have placed My Hands On</h3>
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
