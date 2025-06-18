@@ -29,23 +29,29 @@
 
 <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
 <h3 align="left">💫 About Me</h3>
-<h4> 
+<h4 align="left"> 
   🌱 I am currently learning and developing my programming skills.</br>
  🔭 I worked on .Microsoft and experience in Model-View-Controller.</br>
  💬 Skills I acquire in programming languages such as Python.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> <div align="left">
+ ✨ I only like perfection.</h4> 
 
  <br/><br/>
  
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ 
+ <!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
- <div align="center">
+<br/>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
+
+<br/>
 
 
 
