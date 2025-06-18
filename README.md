@@ -1,4 +1,4 @@
-![alt text](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+![alt text](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <!-- Greeting -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Rafi+Eka+Pramatya!;" />
@@ -28,7 +28,7 @@
   
 </div>
 
-<img align="right" alt="coding-gif" width="450" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
+<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
 <h3 align="left">💫 About Me</h3>
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
