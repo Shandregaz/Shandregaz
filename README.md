@@ -27,7 +27,7 @@
   
 </div>
 
-
+<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/88e65e8a3620ad490cfb3f561f6e192730d88eb0/transparent_gitgif.gif">
 
 <br/>
 
@@ -50,6 +50,9 @@
 <br/>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
+
+</br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
